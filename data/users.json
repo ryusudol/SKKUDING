@@ -1,0 +1,11 @@
+{
+  "users": [
+    { "id": "skku1@skku.edu", "password": "1398" },
+    { "id": "skku2@skku.edu", "password": "1398" },
+    { "id": "skku3@skku.edu", "password": "1398" },
+    { "id": "skku4@skku.edu", "password": "1398" },
+    { "id": "skku5@skku.edu", "password": "1398" },
+    { "id": "skku6@skku.edu", "password": "1398" },
+    { "id": "skku7@skku.edu", "password": "1398" }
+  ]
+}
